@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338076993767",
+    "firebase_url": "https://curehealth-8d396.firebaseio.com",
+    "project_id": "curehealth-8d396",
+    "storage_bucket": "curehealth-8d396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338076993767:android:bb788d39a91cd40b5b7a42",
+        "android_client_info": {
+          "package_name": "com.diu.curehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338076993767-sffh4su5i6v7jjkb5ko6bup513gltiq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4FUdwpWNna-MLK1zm_zARjKHzByS9vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338076993767-sffh4su5i6v7jjkb5ko6bup513gltiq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
